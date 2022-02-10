@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">UsoDeSensores</string>
+    <string name="app_name">Uso De Sensores</string>
+    <string name="sensorp">SENSOR DE PROXIMIDAD</string>
+    <string name="titulodebienvenida">BIENVENIDO A OPCIONES DE SENSORES</string>
+    <string name="Btsensorproxi">SENSOR DE PROXIMIDAD</string>
+
+
 </resources>

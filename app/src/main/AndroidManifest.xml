@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UsoDeSensores">
         <activity
+            android:name=".Acelerometro"
+            android:exported="false" />
+        <activity
             android:name=".Sensordeproximidad"
             android:exported="false" />
         <activity

@@ -3,6 +3,7 @@
     <string name="sensorp">SENSOR DE PROXIMIDAD</string>
     <string name="titulodebienvenida">BIENVENIDO A OPCIONES DE SENSORES</string>
     <string name="Btsensorproxi">SENSOR DE PROXIMIDAD</string>
+    <string name="Btsensoracelerometro">SENSOR ACELEROMETRO</string>
 
 
 </resources>
